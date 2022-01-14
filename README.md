@@ -2,7 +2,7 @@
 - 👀 I’m interested in challenging things...
 - 🌱 I’m currently learning docker
 - 💞️ I’m looking to collaborate on ...etc..
-- 📫 you can reach out through the https://www.instagram.com/vamsikrishnad99/ or danda.vamsikrishna@gmailcom
+- 📫 you can reach out through the danda.vamsikrishna@gmailcom
 
 <!---
 vamsi973/vamsi973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
