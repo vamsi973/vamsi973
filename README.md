@@ -1,7 +1,4 @@
 - 👋 Hi, I’m vamsikrishna 
-- 👀 I’m interested in challenging things...
-- 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on ...etc..
 - 📫 you can reach out through the danda.vamsikrishna@gmailcom
 - https://vamsikrishna.vercel.app/
 
