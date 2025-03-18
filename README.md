@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Vamsikrishna  
 - 🚀 Full-Stack Developer | Angular | Node.js | MongoDB | Ionic | typescript
 
+![Profile Views](https://komarev.com/ghpvc/?username=vamsi973&color=blue)  
+
 🌱 **About Me:**  
 - 💡 Passionate about building web & mobile apps 
 - 🔥 Angular enthusiast | MongoDB & Node.js expert  
@@ -18,6 +20,13 @@
 
 📊 **GitHub Stats:**  
 ![Vamsikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsi973&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsi973&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi973&layout=compact&theme=dark)  
+
+🏆 **GitHub Trophies:**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vamsi973&theme=onedark)  
+
+
 
 📌 **Top Languages:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi973&layout=compact&theme=dark)  
