@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Vamsikrishna 
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=1E90FF&multiline=true&width=700&height=50&lines=Full-Stack+Developer+%7C+Angular+%7C+Node.js+%7C+MongoDB+%7C+Ionic)](https://git.io/typing-svg)
@@ -7,7 +7,7 @@
 
 
 
-# Hi there! 👋 I'm Vamsikrishna  
+//# Hi there! 👋  I'm Vamsikrishna 
 - 🚀 Full-Stack Developer | Angular | Node.js | MongoDB | Ionic | typescript
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vamsi973&color=blue)  
