@@ -45,6 +45,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamsikrishna-danda-36798274)  
 [![Website](https://img.shields.io/badge/-My%20Website-ff69b4?style=flat&logo=google-chrome&logoColor=white)](https://vamsikrishna.vercel.app/)  
 
+
+## ✨ Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <!---
 vamsi973/vamsi973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
