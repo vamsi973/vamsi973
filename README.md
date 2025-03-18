@@ -1,4 +1,4 @@
-- Hi there! 👋, I’m vamsikrishna
+# Hi there! 👋 I'm Vamsikrishna  
 - 🚀 Full-Stack Developer | Angular | Node.js | MongoDB | Ionic | typescript
 
 🌱 **About Me:**  
