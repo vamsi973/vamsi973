@@ -34,7 +34,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vamsi973&theme=onedark)  
 
 📌 **GitHub Activity Graph:**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vamsi973&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vamsi973&theme=github-dark)
+
 
 
 📌 **Top Languages:**  
