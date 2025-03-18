@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=1E90FF&multiline=true&width=700&height=50&lines=Full-Stack+Developer+%7C+Angular+%7C+Node.js+%7C+MongoDB+%7C+Ionic)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
+
 
 
 # Hi there! 👋 I'm Vamsikrishna  
