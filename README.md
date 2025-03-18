@@ -7,7 +7,7 @@
 
 
 
-//# Hi there! 👋  I'm Vamsikrishna 
+<!-- # Hi there! 👋  I'm Vamsikrishna  -->
 - 🚀 Full-Stack Developer | Angular | Node.js | MongoDB | Ionic | typescript
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vamsi973&color=blue)  
