@@ -2,7 +2,7 @@
   Hi there! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Vamsikrishna 
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4998&pause=1000&color=F74E10&multiline=true&repeat=false&width=435&lines=Building+scalable+web+apps+%26+making+tech+simpler+for+everyone!%22+)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4998&pause=1000&color=F74E10&multiline=true&repeat=false&width=435&lines=Building+scalable+web+apps+%26+making+tech+simpler+for+everyone!%22+)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?size=10&repeat=false&lines=Building+scalable+web+apps+%26+making+tech+simpler+for+everyone!)
 
 
 <!-- # Hi there! 👋  I'm Vamsikrishna  -->
